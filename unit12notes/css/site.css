@@ -1,0 +1,27 @@
+.header {
+	background-color: fuchsia;
+	padding: 20px;
+}
+
+.menu {
+	background-color: orange;
+	padding: 10px;
+}
+
+.menu a {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.content {
+	background-color: lightblue;
+}
+
+.banner {
+	padding: 15px;
+}
+
+.thumbnails div {
+	background-color: white;
+	padding: 5px;
+}
